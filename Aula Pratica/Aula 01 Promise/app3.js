@@ -1,0 +1,1 @@
+//Escreva uma função que recebe um número e retorna uma Promise que é resolvida com o quadrado do número.
