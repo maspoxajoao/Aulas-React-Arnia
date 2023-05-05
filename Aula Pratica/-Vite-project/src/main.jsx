@@ -1,10 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
-import './index.css'
+import { HelloWorld, HelloWorld2 } from './components/HelloWolrd'
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+        <HelloWorld/>
+        <HelloWorld2/>
   </React.StrictMode>,
 )
