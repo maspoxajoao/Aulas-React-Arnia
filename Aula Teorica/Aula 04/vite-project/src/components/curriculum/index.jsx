@@ -20,11 +20,11 @@ const Curriculum = () => {
     <div className="container">
       <Header />
       <Hero />
-      <Title>About me </Title>
+      <Title>About me</Title>
       <WorkExpirience1 />
-      <Title> Education</Title>
+      <Title>Education</Title>
       <WorkExpirience2 />
-      <Title>Education </Title>
+      <Title>Education</Title>
       <WorkExpirience3 />
       <Skills skills={skills} />
     </div>
